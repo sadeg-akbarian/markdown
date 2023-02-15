@@ -18,5 +18,5 @@
 - Schon gekauft
   - [ ] Kuchen
   - [ ] Milch
-  - [ ] Hoonig
+  - [x] Hoonig
 
